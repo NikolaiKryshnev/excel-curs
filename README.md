@@ -1,9 +1,9 @@
 ## Testing in Move
 
-Для тестирования в языке Move используйте следующий пример функции:
+
 
 ```move
-<details> <summary>
+<details> <summary>Для тестирования в языке Move используйте следующий пример функции:</summary>
 <iframe 
     data-tally-src="https://tally.so/embed/w7WgrL?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1" 
     loading="lazy" 
